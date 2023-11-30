@@ -1,0 +1,6 @@
+
+src/CMakeFiles/
+.vs
+src/cain-ncnn-vulkan.dir/Debug/
+src/x64/Debug
+src/Debug
